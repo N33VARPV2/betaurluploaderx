@@ -35,7 +35,7 @@ I Am Telegram URL Uploader Bot.
 
 **❤️ Version** : [2.3 🔥](https://t.me/url_uploaderx_bot_bot)
 
-**🤖 Source** : [Click](https://github.com/LISA-KOREA/UPLOADER-BOT-V3)
+**🤖 Source** : [Click](https://github.com/OFFCode032/betaurluploaderx)
 
 **🧿 Language** : [Python 3.10.11](https://www.python.org/)
 
