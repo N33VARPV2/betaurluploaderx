@@ -5,7 +5,7 @@ services:
     env: python
     buildCommand: pip install -r requirements.txt
     startCommand: python bot.py
-    repo: https://github.com/LISA-KOREA/UPLOADER-BOT-V3.git      
+    repo: https://github.com/OFFCode032/betaurluploaderx.git      
     branch: Master
     envVars:
       - key: BOT_TOKEN 
